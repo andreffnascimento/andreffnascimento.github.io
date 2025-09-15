@@ -1,11 +1,15 @@
 {
   "basics": {
-    "name": "André Nascimento",
+    "name": "André Filipe Ferreira do Nascimento",
     "label": "",
     "image": "",
-    "email": "andreffnascimento@outlook.com",
     "phone": "(+351) 914409368",
-    "url": "",
+    "email": [
+      "andreffnascimento@outlook.com\n",
+      "andreffnascimento@tecnico.ulisboa.pt"
+    ],
+    "programming": "OCaml, JavaScript/TypeScript, C/C++, Java, Python",
+    "languages": "Portuguese (Native Speaker), English (Professional Proficiency)",
     "summary": "Portuguese-born PhD student and junior researcher with a strong interest in formal methods for programming languages.",
     "location": {
       "address": "Rua da Capela, 61A",
@@ -34,9 +38,12 @@
       "location": "Lisbon, Portugal",
       "url": "https://tecnico.ulisboa.pt/en/",
       "startDate": "2024-10",
-      "endDate": "ongoing",
+      "endDate": "present",
       "area": "",
-      "courses": ["Supervisor - Prof. José Fragoso Santos (IST)", "Co-Supervisor - Prof. Nuno Santos (IST)"]
+      "courses": [
+        "Supervisor - Prof. José Fragoso Santos (IST)",
+        "Co-Supervisor - Prof. Nuno Santos (IST)"
+      ]
     },
     {
       "studyType": "MSc in Computer Science and Engineering",
@@ -46,7 +53,10 @@
       "startDate": "2021-09",
       "endDate": "2023-11",
       "area": "Algorithms and Applications & Software Engineering",
-      "courses": ["Supervisor - Prof. José Fragoso Santos (IST)", "Thesis - A Typed Intermediate Language for Specifying the ECMAScript Standard"]
+      "courses": [
+        "Supervisor - Prof. José Fragoso Santos (IST)",
+        "Thesis - A Typed Intermediate Language for Specifying the ECMAScript Standard"
+      ]
     },
     {
       "studyType": "BSc in Computer Science and Engineering",
@@ -66,7 +76,7 @@
       "location": "Lisbon, Portugal",
       "url": "https://www.inesc-id.pt/projects/",
       "startDate": "2025-03",
-      "endDate": "ongoing",
+      "endDate": "present",
       "summary": "Currently working on the scraper that will collect data from the web via automated program synthesis.",
       "highlights": []
     },
@@ -78,7 +88,9 @@
       "startDate": "2023-10",
       "endDate": "2024-10",
       "summary": "Formalized and implemented a symbolic fuzzer to generate security exploits for Node.js applications.",
-      "highlights": ["Submitted the paper “Automated Exploit Generation for Node.js Packages”, accepted at PLDI'25."]
+      "highlights": [
+        "Submitted the paper “Automated Exploit Generation for Node.js Packages”, accepted at PLDI'25."
+      ]
     },
     {
       "position": "First Stage Researcher (R1) | Project DIVINA",
@@ -165,8 +177,18 @@
       "position": "Sports Association Board Secretary",
       "url": "https://www.instagram.com/barwings.calisthenicsclub/",
       "startDate": "2023-06-23",
-      "endDate": "ongoing",
+      "endDate": "present",
       "summary": "Responsible for overseeing internal administrative operations, coordinating board meetings, and managing documentation.",
+      "highlights": []
+    },
+    {
+      "organization": "46th ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI 2025)",
+      "location": "Seoul, South Korea",
+      "position": "Volunteer in PLDI'25",
+      "url": "https://pldi25.sigplan.org/",
+      "startDate": "2025-06-16",
+      "endDate": "2025-06-20",
+      "summary": "",
       "highlights": []
     },
     {
@@ -180,26 +202,8 @@
       "highlights": []
     }
   ],
-  "skills": [
-    {
-      "name": "Programming",
-      "level": "Master",
-      "icon": "fa-solid fa-computer",
-      "keywords": ["OCaml", "JavaScript/TypeScript", "C/C++", "Java", "Python"]
-    }
-  ],
-  "languages": [
-    {
-      "language": "Portuguese",
-      "fluency": "Native speaker",
-      "icon": "fa-solid fa-language"
-    },
-    {
-      "language": "English",
-      "fluency": "Professional Proficiency",
-      "icon": "fa-solid fa-globe"
-    }
-  ],
+  "skills": [],
+  "languages": [],
   "certificates": [],
   "interests": [],
   "references": [],
