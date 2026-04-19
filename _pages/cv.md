@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 5
 
-cv_pdf: curriculum.pdf
+cv_pdf: resume.pdf
 toc:
   sidebar: left
 ---

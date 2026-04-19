@@ -7,6 +7,8 @@ nav: true
 nav_order: 4
 ---
 
+> 🔵 Stay tuned — two <ins>exciting new projects</ins> are currently being prepared for public release!
+
 {% if site.data.repositories.github_repos %}
 
 ## GitHub Repositories

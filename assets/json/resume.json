@@ -71,13 +71,25 @@
   ],
   "work": [
     {
+      "position": "Teaching Assistant",
+      "name": "Instituto Superior Técnico, University of Lisbon",
+      "location": "Lisbon, Portugal",
+      "url": "https://tecnico.ulisboa.pt/en/",
+      "startDate": "2026-02",
+      "endDate": "present",
+      "summary": "",
+      "highlights": [
+        "Spring 2026 - ESof2: Software Engineering"
+      ]
+    },
+    {
       "position": "First Stage Researcher (R1) | Project WebCap",
       "name": "INESC-ID, Lisbon, Portugal",
       "location": "Lisbon, Portugal",
       "url": "https://www.inesc-id.pt/projects/",
       "startDate": "2025-03",
-      "endDate": "present",
-      "summary": "Currently working on the scraper that will collect data from the web via automated program synthesis.",
+      "endDate": "2025-11",
+      "summary": "Worked on the scraper that will collect data from the web via automated program synthesis.",
       "highlights": []
     },
     {
@@ -119,11 +131,25 @@
   ],
   "publications": [
     {
+      "name": "How to Find and Exploit Vulnerabilities in Node.js Packages?",
+      "publisher": "A. Nascimento and F. Marques",
+      "url": "https://pl-lx.github.io/events/epsilon/",
+      "releaseDate": "2026-02-03",
+      "summary": "Invited talk at PL@LX Epsilon"
+    },
+    {
+      "name": "How to Identify Security Vulnerabilities in Node.js Packages?",
+      "publisher": "J. Fragoso Santos, F. Marques, A. Nascimento",
+      "url": "https://popl26.sigplan.org/details/tpsa-2026-papers/10/How-to-identify-security-vulnerabilities-in-Node-js-packages-",
+      "releaseDate": "2026-01-12",
+      "summary": "Research talk at POPL'26"
+    },
+    {
       "name": "Automated Exploit Generation for Node.js Packages",
       "publisher": "F. Marques, M. Ferreira, A. Nascimento, M. Coimbra, N. Santos, L. Jia, J. Fragoso Santos.",
       "url": "https://dl.acm.org/doi/abs/10.1145/3729304",
       "releaseDate": "2025-06-13",
-      "summary": ""
+      "summary": "Research paper in PLDI'25"
     }
   ],
   "awards": [
@@ -182,7 +208,7 @@
       "highlights": []
     },
     {
-      "organization": "46th ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI 2025)",
+      "organization": "46th ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI 2025).",
       "location": "Seoul, South Korea",
       "position": "Volunteer in PLDI'25",
       "url": "https://pldi25.sigplan.org/",
@@ -192,7 +218,7 @@
       "highlights": []
     },
     {
-      "organization": "Núcleo de Apoio ao Estudante (NAPE), Instituto Superior Técnico, University of Lisbon",
+      "organization": "Núcleo de Apoio ao Estudante (NAPE), Instituto Superior Técnico, University of Lisbon.",
       "location": "Lisbon, Portugal",
       "position": "Mentoring Programme 2020/21",
       "url": "https://nape.tecnico.ulisboa.pt/en/mentorado/",
@@ -202,10 +228,10 @@
       "highlights": []
     }
   ],
-  "skills": [],
-  "languages": [],
+  "projects": [],
   "certificates": [],
+  "skills": [],
   "interests": [],
-  "references": [],
-  "projects": []
+  "languages": [],
+  "references": []
 }
