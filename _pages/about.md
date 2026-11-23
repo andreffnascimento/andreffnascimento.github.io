@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: About
-subtitle: PhD Student @ <a href='https://tecnico.ulisboa.pt/en/'>Instituto Superior Técnico</a>
+subtitle: PhD Student @ <a href='https://www.inesc-id.pt/'>INESC-ID</a> / <a href='https://tecnico.ulisboa.pt/en/'>Instituto Superior Técnico</a>
 
 profile:
   align: right
