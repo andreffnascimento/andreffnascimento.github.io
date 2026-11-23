@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: About
-subtitle: PhD Student and Junior Researcher @ <a href='https://www.inesc-id.pt/'>INESC-ID</a> / <a href='https://tecnico.ulisboa.pt/en/'>Instituto Superior Técnico</a>
+subtitle: PhD Student @ <a href='https://tecnico.ulisboa.pt/en/'>Instituto Superior Técnico</a>
 
 profile:
   align: right
@@ -21,7 +21,7 @@ announcements:
 
 My name is André Nascimento, and I am a PhD student in <a href="https://fenix.tecnico.ulisboa.pt/cursos/deic/phd-home">Computer Science and Engineering</a> at <a href="https://tecnico.ulisboa.pt/en">Instituto Superior Técnico (IST)</a>, under the supervision of professors <a href="https://web.ist.utl.pt/jose.fragoso">José Fragoso Santos</a> and <a href="https://www.gsd.inesc-id.pt/~nsantos">Nuno Santos</a>.
 
-I am also a junior researcher at <a href="https://www.inesc-id.pt">INESC-ID</a>, where I have contributed to national and European-funded projects, including <a href="https://www.inesc-id.pt/projects/">DIVINA</a>, <a href="https://www.inesc-id.pt/pt-smart-retail/">SmartRetail</a>, and <a href="https://www.inesc-id.pt/projects/">WebCap</a>.
+Previously, I worked as a junior researcher at <a href="https://www.inesc-id.pt">INESC-ID</a>, where I contributed to national and European-funded projects, including <a href="https://www.inesc-id.pt/projects/">DIVINA</a>, <a href="https://syssec.dpss.inesc-id.pt/funding/smart_retail/index.html">SmartRetail</a>, and <a href="https://www.inesc-id.pt/projects/">WebCap</a>.
 My research focuses on using formal methods to enhance the security and reliability of modern web technologies, namely by designing static and dynamic analyses for JavaScript.
 
 I am an advocate for well-typed languages that are simple, intuitive, and secure, such as <a href="https://ocaml.org/">OCaml</a>.

@@ -5,15 +5,13 @@
     "image": "",
     "phone": "(+351) 914409368",
     "email": [
-      "andreffnascimento@outlook.com\n",
+      "andreffnascimento@outlook.com",
       "andreffnascimento@tecnico.ulisboa.pt"
     ],
-    "programming": "OCaml, JavaScript/TypeScript, C/C++, Java, Python",
+    "programming": "OCaml, Lean, JavaScript/TypeScript, C/C++, Python, Java",
     "languages": "Portuguese (Native Speaker), English (Professional Proficiency)",
-    "summary": "Portuguese-born PhD student and junior researcher with a strong interest in formal methods for programming languages.",
+    "summary": "Portuguese-born PhD student with a strong interest in formal methods for programming languages.",
     "location": {
-      "address": "Rua da Capela, 61A",
-      "postalCode": "2500-304",
       "city": "Caldas da Rainha",
       "countryCode": "PT",
       "region": ""
@@ -37,7 +35,7 @@
       "institution": "Instituto Superior Técnico, University of Lisbon",
       "location": "Lisbon, Portugal",
       "url": "https://tecnico.ulisboa.pt/en/",
-      "startDate": "2024-10",
+      "startDate": "2024-09",
       "endDate": "present",
       "area": "",
       "courses": [
@@ -51,9 +49,10 @@
       "location": "Lisbon, Portugal",
       "url": "https://tecnico.ulisboa.pt/en/",
       "startDate": "2021-09",
-      "endDate": "2023-11",
+      "endDate": "2023-10",
       "area": "Algorithms and Applications & Software Engineering",
       "courses": [
+        "GPA - 3.64",
         "Supervisor - Prof. José Fragoso Santos (IST)",
         "Thesis - A Typed Intermediate Language for Specifying the ECMAScript Standard"
       ]
@@ -66,7 +65,9 @@
       "startDate": "2018-09",
       "endDate": "2021-07",
       "area": "",
-      "courses": []
+      "courses": [
+        "GPA - 3.42"
+      ]
     }
   ],
   "work": [
@@ -79,8 +80,16 @@
       "endDate": "present",
       "summary": "",
       "highlights": [
-        "Spring 2026 - ESof2: Software Engineering"
+        "Fall 2026 (current) – FProg: Foundations of Programming",
+        "Spring 2026 – ESof2: Software Engineering"
       ]
+    },
+    {
+      "position": "Independent Mathematics Tutor",
+      "startDate": "2024-09",
+      "endDate": "present",
+      "summary": "Organize and teach private mathematics lessons for middle and high school students (grades 5–12).",
+      "highlights": []
     },
     {
       "position": "First Stage Researcher (R1) | Project WebCap",
@@ -89,14 +98,14 @@
       "url": "https://www.inesc-id.pt/projects/",
       "startDate": "2025-03",
       "endDate": "2025-11",
-      "summary": "Worked on the scraper that will collect data from the web via automated program synthesis.",
+      "summary": "Developed a web scraper that collects data via automated program synthesis.",
       "highlights": []
     },
     {
       "position": "First Stage Researcher (R1) | Project SmartRetail",
       "name": "INESC-ID, Lisbon, Portugal",
       "location": "Lisbon, Portugal",
-      "url": "https://www.inesc-id.pt/pt-smart-retail/",
+      "url": "https://syssec.dpss.inesc-id.pt/funding/smart_retail/index.html",
       "startDate": "2023-10",
       "endDate": "2024-10",
       "summary": "Formalized and implemented a symbolic fuzzer to generate security exploits for Node.js applications.",
@@ -111,7 +120,7 @@
       "url": "https://www.inesc-id.pt/projects/",
       "startDate": "2023-02",
       "endDate": "2023-07",
-      "summary": "Developed a reference interpreter for the 6th version of the JavaScript standard, which served as the foundation for a new symbolic execution tool for JavaScript.",
+      "summary": "Developed a reference interpreter for ECMAScript 6 (ES2015), which served as the foundation for a new symbolic execution tool for JavaScript.",
       "highlights": []
     },
     {
@@ -123,9 +132,9 @@
       "endDate": "2023-07",
       "summary": "",
       "highlights": [
-        "Spring 2023 - ESof2: Software Engineering",
-        "Fall 2022 - FProg-2: Foundations of Programming",
-        "Spring 2022 - ESof2: Software Engineering"
+        "Spring 2023 – ESof2: Software Engineering",
+        "Fall 2022 – FProg: Foundations of Programming",
+        "Spring 2022 – ESof2: Software Engineering"
       ]
     }
   ],
@@ -135,14 +144,14 @@
       "publisher": "A. Nascimento and F. Marques",
       "url": "https://pl-lx.github.io/events/epsilon/",
       "releaseDate": "2026-02-03",
-      "summary": "Invited talk at PL@LX Epsilon"
+      "summary": "Invited talk at the Programming Languages Lisbon group meetup (PL@LX Epsilon), hosted by OutSystems"
     },
     {
       "name": "How to Identify Security Vulnerabilities in Node.js Packages?",
       "publisher": "J. Fragoso Santos, F. Marques, A. Nascimento",
       "url": "https://popl26.sigplan.org/details/tpsa-2026-papers/10/How-to-identify-security-vulnerabilities-in-Node-js-packages-",
       "releaseDate": "2026-01-12",
-      "summary": "Research talk at POPL'26"
+      "summary": "Theory and Practice of Static Analysis (TPSA) Workshop @ POPL 2026"
     },
     {
       "name": "Automated Exploit Generation for Node.js Packages",
@@ -158,14 +167,14 @@
       "awarder": "Fundação para a Ciência e Tecnologia, Portugal",
       "url": "https://www.fct.pt/en/concursos/concurso-bolsas-de-doutoramento-2025-linha-de-candidatura-geral",
       "date": "2025-08-02",
-      "summary": ""
+      "summary": "Fully-funded PhD scholarship."
     },
     {
-      "title": "Award on a Software Engineering Context",
+      "title": "Winner of an Award on a Software Engineering Context",
       "awarder": "Celfocus/Novabase",
       "url": "https://tt.tecnico.ulisboa.pt/arquivos/celfocus-novabase-premeia-equipa-do-tecnico/",
       "date": "2022-07-01",
-      "summary": ""
+      "summary": "Together with Duarte Bento and Susana Monteiro."
     },
     {
       "title": "Academic Merit Diploma",
@@ -175,7 +184,7 @@
       "summary": ""
     },
     {
-      "title": "Academic Excellency Diploma",
+      "title": "Academic Excellence Diploma",
       "awarder": "Instituto Superior Técnico, University of Lisbon",
       "url": "https://tecnico.ulisboa.pt/en/",
       "date": "2020/2021",
@@ -204,7 +213,17 @@
       "url": "https://www.instagram.com/barwings.calisthenicsclub/",
       "startDate": "2023-06-23",
       "endDate": "present",
-      "summary": "Responsible for overseeing internal administrative operations, coordinating board meetings, and managing documentation.",
+      "summary": "Responsible for overseeing internal administrative operations, coordinating board meetings, and managing official documentation.",
+      "highlights": []
+    },
+    {
+      "organization": "9th Federated Logic Conference (FLoC 2026).",
+      "location": "Lisbon, Portugal",
+      "position": "Volunteer in FLoC'26",
+      "url": "https://www.floc26.org/",
+      "startDate": "2026-07-18",
+      "endDate": "2026-07-29",
+      "summary": "",
       "highlights": []
     },
     {
